@@ -1,0 +1,6 @@
+{
+  "name": "ShetkariMitra (शेतकरी मित्र) — AgriVision AI",
+  "description": "Empowering Farmers with Vernacular Multimodal Diagnostics & Dual-Tier Crop Remedies in Marathi, Hindi, and English.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
